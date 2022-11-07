@@ -10,7 +10,7 @@ I design and build things that live on the internet.
 * 🖥️  See my portfolio at [My Portfolio](http://mgdevelops2.com)
 * ✉️  You can contact me at [mgdevelops2@gmail.com](mailto:mgdevelops2@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer
-* ⚡  I like to drive slow cars fast.
+* ⚡  I like to drive slow cars fast. 🏎️
 
 ### Skills
 
