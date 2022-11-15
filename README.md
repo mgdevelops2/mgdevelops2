@@ -7,7 +7,7 @@ Web Developer | Designer
 I design and build things that live on the internet.
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at [My Portfolio](http://mgdevelops2.com)
+* 🖥️  See my portfolio at [My Portfolio](https://mgdevelops2.github.io/portfoliov3/)
 * ✉️  You can contact me at [mgdevelops2@gmail.com](mailto:mgdevelops2@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer
 * ⚡  I like to drive slow cars fast. 🏎️
