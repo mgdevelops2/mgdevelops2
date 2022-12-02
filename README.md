@@ -7,9 +7,11 @@ Web Developer | Designer
 I design and build things that live on the internet.
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at [My Portfolio](https://mgdevelops2.github.io/portfoliov3/)
+* 🌱  I’m currently learning **AWS**
+* 👨‍💻   More info can be found on my portfolio at [My Portfolio](https://mgdevelops2.github.io/portfoliov3/)
 * ✉️  You can contact me at [mgdevelops2@gmail.com](mailto:mgdevelops2@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects as a developer or designer
+* 🧠  I earned certification for the Full-Stack Coding Bootcamp at Georgia Institute of Technology
+* 🤝  I'm open to collaborating on Everything and have experience incorporating a Scrum/Agile methodology! 
 * ⚡  I like to drive slow cars fast. 🏎️
 
 ### Skills
